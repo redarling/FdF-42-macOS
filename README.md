@@ -2,7 +2,7 @@
 
 ## 💡 About the project
 
-The FdF-42-macOS project provides a graphical representation of a landscape, where the terrain is outlined with lines to emphasize the topography and surface details. The result is a visually appealing 3D model.
+The FdF project provides a graphical representation of a landscape, where the terrain is outlined with lines to emphasize the topography and surface details. The result is a visually appealing 3D model.
 
 ## ❗This is a port from my linux FdF project version
 
@@ -17,7 +17,7 @@ Potentially memory leaks could be found.
 
 ## 🛠️ Installation Instructions
 
-To get started with the FdF-42-macOS project, follow these steps:
+To get started with the FdF project, follow these steps:
 
 1. Clone the repository using the command:
 
