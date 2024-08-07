@@ -2,7 +2,7 @@
 
 ## 💡 About the project
 
-The FdF project provides a graphical representation of a landscape, where the terrain is outlined with lines to emphasize the topography and surface details. The result is a visually appealing 3D model.
+The FdF project provides a graphical representation of a landscape as a 3D object in which all surfaces are outlined in lines.
 
 ## ❗This is a port from my linux FdF project version
 
@@ -39,7 +39,7 @@ After successful compilation, you can run the application by providing a valid m
 
 ## 🛠️ Features
 
--   3D Terrain Visualization: Represents landscapes as 3D objects with
+-   3D Terrain Visualization: Represents landscapes as 3D object with
   outlined surfaces by providing a file with terrain data when running the application.
 
 Example of the valid map:
