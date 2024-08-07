@@ -1,4 +1,4 @@
-# 🌄 FdF-42-macOS 
+# FdF (wireframe viewer) 
 
 ## 💡 About the project
 
