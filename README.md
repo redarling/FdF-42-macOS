@@ -4,13 +4,14 @@
 
 The FdF-42-macOS project provides a graphical representation of a landscape, where the terrain is outlined with lines to emphasize the topography and surface details. The result is a visually appealing 3D model.
 
-## 🖼️ Screenshots
+## ❗This is a port from my linux FdF project version, so memory leaks potentially could be found
 
-Here are some examples of the rendered 3D landscapes:
+## Some examples of the rendered 3D landscapes:
 
-- ![Screenshot 1](https://github.com/redarling/FdF-42-macOS/blob/main/img2.png)
-- ![Screenshot 2](https://github.com/redarling/FdF-42-macOS/blob/main/img1.png)
-- ![Screenshot 3](https://github.com/redarling/FdF-42-macOS/blob/main/img3.png)
+- <img src="https://github.com/redarling/FdF-42-macOS/blob/main/img2.png" alt="Screenshot 1" width="300"/>
+- <img src="https://github.com/redarling/FdF-42-macOS/blob/main/img1.png" alt="Screenshot 2" width="300"/>
+- <img src="https://github.com/redarling/FdF-42-macOS/blob/main/img3.png" alt="Screenshot 3" width="300"/>
+
 
 ## 🛠️ Installation Instructions
 
