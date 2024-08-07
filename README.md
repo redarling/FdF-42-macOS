@@ -1,6 +1,6 @@
 # 🌄 FdF-42-macOS 
 
-## 📋 Overview
+## 💡 About the project
 
 The FdF-42-macOS project provides a graphical representation of a landscape, where the terrain is outlined with lines to emphasize the topography and surface details. The result is a visually appealing 3D model that helps in understanding and analyzing the landscape's features.
 
