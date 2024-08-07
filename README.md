@@ -12,26 +12,50 @@ Here are some examples of the rendered 3D landscapes:
 - ![Screenshot 2](https://github.com/redarling/FdF-42-macOS/blob/main/img1.png)
 - ![Screenshot 3](https://github.com/redarling/FdF-42-macOS/blob/main/img3.png)
 
-## 🚀 Getting Started
+## 🛠️ Installation Instructions
 
 To get started with the FdF-42-macOS project, follow these steps:
 
-1. **Clone the Repository**
+1. Clone the repository using the command:
 
-   ```bash
-   git clone https://github.com/yourusername/FdF-42-macOS.git
-   cd FdF-42-macOS
+        git clone https://github.com/redarling/FdF-42-macOS.git
 
-2. **Build the Project**
-   
-   ```bash
-   make
+2. Navigate to the project directory:
 
-3. **Run the Application**
+        cd FdF-42-macOS
 
-Once built, you can run the application with:
-   
-   ```bash
-   ./FdF path_to_a_map
+3. To build the project, execute the following command:
 
-Once built, you can run the application with:
+        make
+
+After successful compilation, you can run the application by providing a valid map
+
+## Example command:
+
+    ./fdf maps/elem-fract.fdf
+
+## 🛠️ Features
+
+-   3D Terrain Visualization: Represents landscapes as 3D objects with
+  outlined surfaces by providing a file with terrain data when running the application.
+
+Example of the valid map:
+
+      0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+      0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+      0  0 10 10  0  0 10 10  0  0  0 10 10 10 10 10  0  0  0
+      0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
+      0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
+      0  0 10 10 10 10 10 10  0  0  0  0 10 10 10 10  0  0  0
+      0  0  0 10 10 10 10 10  0  0  0 10 10  0  0  0  0  0  0
+      0  0  0  0  0  0 10 10  0  0  0 10 10  0  0  0  0  0  0
+      0  0  0  0  0  0 10 10  0  0  0 10 10 10 10 10 10  0  0
+      0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+      0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+The numbers respresent the height of a point in the landscape.
+
+-   Interactive Controls: Navigate and manipulate the 3D view using intuitive controls.
+
+## 📝 Author
+- [asyvash](https://github.com/redarling)
