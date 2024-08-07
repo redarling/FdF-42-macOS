@@ -8,9 +8,9 @@ The FdF-42-macOS project provides a graphical representation of a landscape, whe
 
 Here are some examples of the rendered 3D landscapes:
 
-- ![Screenshot 1](https://github.com/redarling/FdF-42-macOS/blob/main/img1.png)
-- ![Screenshot 2](img2)
-- ![Screenshot 3](img3)
+- ![Screenshot 1](https://github.com/redarling/FdF-42-macOS/blob/main/img2.png)
+- ![Screenshot 2](https://github.com/redarling/FdF-42-macOS/blob/main/img1.png)
+- ![Screenshot 3](https://github.com/redarling/FdF-42-macOS/blob/main/img3.png)
 
 ## 🚀 Getting Started
 
